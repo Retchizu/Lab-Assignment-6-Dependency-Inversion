@@ -13,4 +13,4 @@ Create a repository in your GitHub account. Put your solution there. In the read
 Make sure you have a TestProgram that will validate the proposed refactored codes.
 
 <h1>Uml Class Diagram</h1>
-<img src="https://raw.githubusercontent.com/Retchizu/Lab-Assignment-6-Dependency-Inversion/main/Baltazar%2C%20Richmond%20A.%20Dependency%20Inversion%20Assignment%20UML%20%20.png"/>
+<img src=""/>
